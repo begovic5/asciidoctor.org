@@ -77,7 +77,7 @@ https://atom.io/packages/asciidoc-assistant[AsciiDoc Assistant] :: Installs usef
 
 Install http://brackets.io/[Brackets].
 Then from the Brackets file menu, open the extension manager.
-Browse available extensions and install `AsciiDoc Preview`.
+Browse available extsczxcxensions and install `AsciiDoc Preview`.
 
 More information:
 
